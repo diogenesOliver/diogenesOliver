@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 Estudando programação por prazer, mas quem sabe eu me torne um dos maiores programadores;
-- 💻 const atualEstudo = (JavaScript, HTML5, CSS3 and Python);
+- 💻 const atualEstudo = [JavaScript, HTML5, CSS3 and Python];
 - 📩 Contato: diogenes.riboliveira@gmail.com
 
 <div align="center">
