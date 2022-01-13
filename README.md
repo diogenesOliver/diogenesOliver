@@ -1,4 +1,4 @@
-### Hi there 👋
+### console.log('Olá, mundo!') 👋
 
 - 💻 Estudando programação por prazer, mas quem sabe eu me torne um dos maiores programadores;
 - 💻 let atualEstudo = [JavaScript, HTML5, CSS3];
