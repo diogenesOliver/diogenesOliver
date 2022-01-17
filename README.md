@@ -1,6 +1,6 @@
 ### console.log( 'Seja bem-vindo ao meu GitHub' )
 
-- Futuro Dev Jr Front End Web! Atualmente estudando as tecnologias HTML 5, CSS 3 e JavaScript. Em breve irei iniciar os estudos em ReactJS, TypeScript e NodeJs! 
+- Futuro Dev Jr Front End Web! Atualmente estudando as tecnologias HTML 5, CSS 3 e JavaScript. Em breve irei iniciar os estudos em ReactJS, TypeScript e Node.JS! 
 
 <br>
 
