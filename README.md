@@ -1,9 +1,6 @@
-### console.log( 'Seja bem-vindo ao meu GitHub' )
+#### app.get('/diogenesOliver', (req, res) => { res.send( 'Olá! Seja Bem-Vindo(a) ao meu Github!' ) })
 
-- Futuro Dev Jr FullStack! Atualmente estudando as tecnologias HTML 5, CSS 3 e JavaScript. Em breve irei iniciar os estudos em ReactJS, TypeScript e NodeJS! 
-- Conhecimento básico em desenvolvimento de templates de sites e criação de páginas de captura.
-- Conhecimento básico em automação de processos com Python.
-- Iniciando os estudos no Framework Front End - Bootstrap.
+
 
 <br>
 
