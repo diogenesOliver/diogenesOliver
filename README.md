@@ -1,6 +1,8 @@
-#### app.get('/diogenesOliver', (req, res) => { res.send( 'Olá! Seja Bem-Vindo(a) ao meu Github!' ) })
+#### app.get('/diogenesOliver', (req, res) => { res.status(200).json({ msg: 'Olá! Seja Bem-Vindo(a) ao meu Github!' }) }
 
+<br>
 
+- Apaixonado por tecnologia, tenho como meta me tornar o melhor programador de todos os tempos.
 
 <br>
 
