@@ -2,7 +2,7 @@
 
 <br>
 
-- Apaixonado por tecnologia, tenho como meta me tornar o melhor programador de todos os tempos.
+- Programando...
 
 <br>
 
