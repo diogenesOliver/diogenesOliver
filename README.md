@@ -6,6 +6,8 @@
 
 <br>
 
+- const alerta = () => { console.log( 'As tecnologias citadas abaixo constam como meus estudos atuais, não são necessáriamente de meu domínio!' ) }
+
 - 📩 Contato: diogenes.riboliveira@gmail.com
 
 <br>
