@@ -3,6 +3,7 @@
 <br>
 
 - Programando...
+- Aluno da primeira turma do porgrama de formação de desenvolvedores - Warren Tech Academy.
 
 <br>
 
