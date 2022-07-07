@@ -1,4 +1,10 @@
-#### app.get('/diogenesOliver', (req, res) => { res.status(200).json({ msg: 'Olá! Seja Bem-Vindo(a) ao meu Github!' }) }
+``` app.get('/diogenesOliver', (req, res) => {
+res.status(200).json({
+
+  msg: 'Olá! Seja Bem-Vindo(a) ao meu Github!'
+  
+})} 
+```
 
 <br>
 
