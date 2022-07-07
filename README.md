@@ -14,13 +14,7 @@ app.get('github.com/diogenesOliver', (req, res) => {
 
 <br>
 
-- Programando...
-
-<br>
-
-- 📩 Contato: diogenes.riboliveira@gmail.com
-
-<br>
+- Programing...
 
 <div align="center">
   <a href="https://github.com/diogenesOliver">
