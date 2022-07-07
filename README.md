@@ -1,9 +1,15 @@
-``` app.get('/diogenesOliver', (req, res) => {
-res.status(200).json({
-
-  msg: 'Olá! Seja Bem-Vindo(a) ao meu Github!'
+``` 
+const express = require('express')
+const app = express()
   
-})} 
+app.get('/diogenesOliver', (req, res) => {
+
+  res.status(200).json({
+
+    msg: 'Olá! Seja Bem-Vindo(a) ao meu Github!'
+
+  })
+})
 ```
 
 <br>
