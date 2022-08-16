@@ -17,9 +17,9 @@ app.get('github.com/diogenesOliver', (req, res) => {
 - Programing...
 
 <div align='center'>
-  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesOliver&layout=compact&langs_count=7&theme=dark"/>
+  <img height="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesOliver&layout=compact&langs_count=7&theme=dark"/>
   <a href="https://github.com/diogenesOliver">
-  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=diogenesOliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diogenesOliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
