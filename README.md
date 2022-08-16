@@ -16,11 +16,11 @@ app.get('github.com/diogenesOliver', (req, res) => {
 
 - Programing...
 
-<div>
+
   <img height="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesOliver&layout=compact&langs_count=7&theme=dark"/>
   <a href="https://github.com/diogenesOliver">
   <img src="https://github-readme-stats.vercel.app/api?username=diogenesOliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
   
 <div style="display: inline_block" align="center"><br>
   
