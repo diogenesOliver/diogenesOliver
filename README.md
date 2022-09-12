@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i>Diógenes Ribeiro</i></a> 😃️</h1>
 </div>
 
-- Desenvolvedor (Loading...)
+- Desenvolvedor Jr (Loading...)
 
 - Apaixonado por programação e tecnologia!
 - Tenho como foco nos meus estudos Frontend, porém ultimamente estou me aventurando no Backend!
