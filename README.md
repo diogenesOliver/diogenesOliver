@@ -5,7 +5,7 @@
 - Desenvolvedor (Loading...)
 
 - Apaixonado por programação e tecnologia!
-- Tenho como foco nos meus estudos, porém ultimamente estou me aventurando no Backend!
+- Tenho como foco nos meus estudos Frontend, porém ultimamente estou me aventurando no Backend!
 - Tenho como objetivo na minha carreira ajudar o máximo de pessoas possível através da programação!
 
 <br><br>
