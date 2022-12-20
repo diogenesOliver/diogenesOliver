@@ -2,11 +2,8 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i>Diógenes Ribeiro</i></a> 😃️</h1>
 </div>
 
-- Desenvolvedor Jr (Loading...)
+ - <img align="center" alt="nodejs" height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  Dev Jr NodeJS
 
-- Apaixonado por programação e tecnologia!
-- Tenho como foco nos meus estudos Frontend, porém ultimamente estou me aventurando no Backend!
-- Tenho como objetivo na minha carreira ajudar o máximo de pessoas possível através da programação!
 
 <br><br>
 
