@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i>Diógenes Ribeiro</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i>Diógenes Ribeiro</i></a></h1>
 </div>
 
  - <img align="center" alt="nodejs" height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  Dev Jr NodeJS
