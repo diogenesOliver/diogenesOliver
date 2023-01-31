@@ -4,7 +4,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
   </h1>
   
-  <h3 align="center">I'm <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i> Diógenes Ribeiro </i></a>  and... </h3>
+  <h3 align="center">I'm <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i> Diógenes Ribeiro </i></a></h3>
 </div>
 
  - <img align="center" alt="nodejs" height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  Dev Jr NodeJS
