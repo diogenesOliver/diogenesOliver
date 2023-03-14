@@ -7,8 +7,13 @@
   <h3 align="center">I'm <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i> Diógenes Ribeiro </i></a></h3>
 </div>
 
- - <img align="center" alt="nodejs" height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  Dev Jr NodeJS
+ - <img align="center" height="20" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> NodeJS Developer
 
+   <br>
+
+ - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Learning...
+ - <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> Learning...
+ - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" /> Learning...
 
 <br><br>
 
