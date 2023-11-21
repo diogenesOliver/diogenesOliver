@@ -9,12 +9,6 @@
 
  - <img align="center" height="20" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> NodeJS Developer
 
-   <br>
-
- - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> Learning...
- - <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> Learning...
- - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Learning...
-
 <br><br>
 
 <div align="center">
