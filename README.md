@@ -6,11 +6,7 @@
   
   <h3 align="center">I'm <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i> Diógenes Ribeiro </i></a></h3>
 </div>
-
- - <img align="center" height="20" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> NodeJS Developer
-
 <br><br>
-
 <div align="center">
   <a href="https://github.com/diogenesOliver">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogenesOliver&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
