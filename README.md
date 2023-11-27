@@ -1,7 +1,6 @@
 <div>
    <h1 align="center">
      Hi there! Welcome to my Github
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
   </h1>
   
   <h3 align="center">I'm <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i> Diógenes Ribeiro </i></a></h3>
