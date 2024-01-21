@@ -3,7 +3,27 @@
      Hi there! Welcome to my Github
   </h1>
   
-  <h3 align="center">I'm <a href="https://www.linkedin.com/in/diogenesriboliveira/"><i> Diógenes Ribeiro </i></a></h3>
+```json
+{
+   name: "Diógenes Ribeiro de Oliveira",
+   age: 22,
+   dev: "Backend developer",
+   city: "Porto Alegre - RS",
+   technologies: [ "Golang", "TypeScript", "NodeJS" ],
+   currentLanguage: "Golang",
+   biggestProjects: {
+      Task-s: {
+         linguege: "Typescript",
+         description: "This is a task controller, in this app you can control your daily tasks and set them in order of difficulty"
+      },
+      goEvent: {
+         linguage: "Golang",
+         description: "GoEvents is a project so that the user can have full control of all their appointments in a simple way"
+      }
+   }
+}
+```
+   
 </div>
 <br><br>
 <div align="center">
