@@ -14,11 +14,11 @@
    "biggestProjects": {
       "Task-s": {
          "linguege": "Typescript",
-         "description": "This is a task controller, in this app you can control your daily tasks and set them in order of difficulty"
+         "description": "API Rest from tasks controller"
       },
       "goEvent": {
          "linguage": "Golang",
-         "description": "GoEvents is a project so that the user can have full control of all their appointments in a simple way"
+         "description": "API Rest from appointments controller"
       }
    }
 }
