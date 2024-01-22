@@ -14,11 +14,13 @@
    "biggestProjects": {
       "Task-s": {
          "linguege": "Typescript",
-         "description": "API Rest from tasks controller"
+         "description": "API Rest from tasks controller,
+         "link": "https://github.com/diogenesOliver/Task-s"
       },
       "goEvent": {
          "linguage": "Golang",
-         "description": "API Rest from appointments controller"
+         "description": "API Rest from appointments controller",
+         "link": "https://github.com/diogenesOliver/goEvent"
       }
    }
 }
