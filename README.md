@@ -11,9 +11,9 @@
    "city": "Porto Alegre - RS",
    "technologies": [ "Golang", "TypeScript", "NodeJS" ],
    "currentLanguage": "Golang",
-   "biggestProjects": {
+   "biggestProjects": [
       "Task-s": {
-         "linguege": "Typescript",
+         "linguage": "Typescript",
          "description": "API Rest from tasks controller",
          "link": "https://github.com/diogenesOliver/Task-s"
       },
@@ -22,7 +22,7 @@
          "description": "API Rest from appointments controller",
          "link": "https://github.com/diogenesOliver/goEvent"
       }
-   }
+   ]
 }
 ```
    
