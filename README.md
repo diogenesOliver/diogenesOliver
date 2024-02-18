@@ -8,7 +8,7 @@
    "name": "Diógenes Ribeiro de Oliveira",
    "age": 22,
    "dev": "Backend developer",
-   "college": "Uniritter - Ciência da Computação"
+   "college": "Computer Science at Uniritter"
    "city": "Porto Alegre - RS",
    "technologies": [ "Golang", "TypeScript", "NodeJS" ],
    "currentLanguage": "Golang",
