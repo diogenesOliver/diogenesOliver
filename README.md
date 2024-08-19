@@ -7,21 +7,23 @@
 {
    "name": "Diógenes Ribeiro de Oliveira",
    "age": 22,
-   "dev": "Backend developer",
+   "dev": [ "Dev. BAckend", "Cloud Developer" ],
    "college": "Computer Science at Uniritter"
    "city": "Porto Alegre - RS",
-   "technologies": [ "Golang", "TypeScript", "NodeJS" ],
-   "currentLanguage": "Golang",
+   "technologies": [ "Terraform", "TypeScript", "NodeJS" ],
+   "currentLanguage": "TypeScript",
    "biggestProjects": [
       "Task-s": {
+         "name": "Task-s",
          "linguage": "Typescript",
          "description": "API Rest from tasks controller",
-         "link": "https://github.com/diogenesOliver/Task-s"
+         "url_repo": "https://github.com/diogenesOliver/Task-s"
       },
-      "goEvent": {
-         "linguage": "Golang",
-         "description": "API Rest from appointments controller",
-         "link": "https://github.com/diogenesOliver/goEvent"
+      "infra-localstack": {
+         "name": "infra-localstack",
+         "linguage": [ "Terraform", "JavaScript" ],
+         "description": "Provisioning cloud infrastructure with IAC in the LocalStack tool",
+         "url_repo": "https://github.com/diogenesOliver/infra-localstack"
       }
    ]
 }
