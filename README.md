@@ -5,9 +5,5 @@
 </p>
 
 <p align="left">
-  ✅ Linguagens: [ Typescript, Python ]
-</p>
-
-<p align="left">
-  ✅ Cloud: [ AWS, AWS Lambda, Serverless ]
+  Computer Vision YOLO Models 📹 ✅
 </p>
