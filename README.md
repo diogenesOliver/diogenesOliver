@@ -5,5 +5,5 @@
 </p>
 
 <p align="left">
-  Computer Vision YOLO Models 📹 ✅
+  Computer Vision Student📹 ✅
 </p>
