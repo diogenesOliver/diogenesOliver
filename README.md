@@ -67,23 +67,3 @@ Um frame percorre seis etapas, da câmera ao evento. A animação acompanha um f
     <img width="570" src="https://raw.githubusercontent.com/diogenesOliver/diogenesOliver/output/github-contribution-grid-snake.svg" alt="contribuições"/>
   </picture>
 </p>
-
-## Projetos
-
-- **[yolo-ai](https://github.com/diogenesOliver/yolo-ai)** — detecção de objetos com o modelo YOLO
-- **[TicketHUB](https://github.com/diogenesOliver/TicketHUB)** — infraestrutura AWS com LocalStack como provider local
-- **[IAC-cdktf](https://github.com/diogenesOliver/IAC-cdktf)** — provisionamento de EC2 na AWS via CDKTF com Python
-- **[infra-localstack](https://github.com/diogenesOliver/infra-localstack)** — infraestrutura AWS com Terraform e LocalStack
-- **[devops-go](https://github.com/diogenesOliver/devops-go)** — conceitos de DevOps aplicados a uma aplicação Go
-- **[PollsAPI-NLW](https://github.com/diogenesOliver/PollsAPI-NLW)** — API de enquetes em tempo real com WebSocket e Redis
-
-## Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/diogenesoliver/">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:diogenes.riboliveira@gmail.com">
-    <img height="28" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
