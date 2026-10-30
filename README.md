@@ -62,10 +62,6 @@ Um frame percorre seis etapas, da câmera ao evento. A animação acompanha um f
 </p>
 
 <p align="center">
-  <img width="570" src="https://ssr-contributions-svg.vercel.app/_/diogenesOliver?chart=3dbar&gap=0.6&scale=1.2&flow=false&dark=true&weeks=26&animation=wave&animation_duration=8" alt="gráfico de commits"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogenesOliver/diogenesOliver/output/github-contribution-grid-snake-dark.svg"/>
     <img width="570" src="https://raw.githubusercontent.com/diogenesOliver/diogenesOliver/output/github-contribution-grid-snake.svg" alt="contribuições"/>
