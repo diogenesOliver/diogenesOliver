@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 452" width="900" height="452" role="img" aria-label="Da camera RTSP ao evento de IA">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101014"/>
+      <stop offset="0.7" stop-color="#121216"/>
+      <stop offset="1" stop-color="#1A1410"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E0803C"/>
+      <stop offset="1" stop-color="#E0803C" stop-opacity="0.08"/>
+    </linearGradient>
+    <path id="track" d="M 62 232 L 838 232"/>
+    <style>
+      .f { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+      .eyebrow { font-size: 10px; font-weight: 700; letter-spacing: 1.5px; fill: #E0803C; }
+      .h1  { font-size: 21px; font-weight: 800; fill: #F2F2F5; letter-spacing: -0.4px; }
+      .h2  { font-size: 11.5px; fill: #8A8A96; }
+      .num { font-size: 10px; font-weight: 700; fill: #E0803C; }
+      .tag { font-size: 8.5px; font-weight: 700; letter-spacing: 1.1px; fill: #6E6E7A; }
+      .ct  { font-size: 12.5px; font-weight: 700; fill: #EDEDF1; }
+      .cm  { font-size: 8.6px; fill: #80808C; }
+      .arr { font-size: 14px; fill: #4A4A55; }
+      .chip{ font-size: 9.5px; font-weight: 700; fill: #1A1208; }
+      .lbl { font-size: 9px; font-weight: 700; letter-spacing: 1.3px; fill: #6E6E7A; }
+      .step{ font-size: 11px; font-weight: 700; fill: #E0803C; }
+      .code{ font-size: 9.6px; fill: #C6C6CF; }
+      .cdim{ font-size: 9.6px; fill: #6E6E7A; }
+      .box { font-size: 7.5px; font-weight: 700; fill: #0E140F; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="451" rx="16" fill="url(#fbg)" stroke="#26262D"/>
+
+  <text class="f eyebrow" x="44" y="42">CICLO DE VIDA DE UM FRAME</text>
+  <text class="f h1"      x="44" y="72">Da câmera RTSP ao evento de IA</text>
+  <text class="f h2"      x="44" y="94">Exemplo: contagem de pessoas numa fila, com tempo de permanência por área.</text>
+
+  <g>
+    <rect x="44"  y="118" width="127" height="86" rx="10" fill="#141419" stroke="#2A2A33"/>
+    <text class="f num" x="58"  y="138">01</text><text class="f tag" x="78" y="138">FONTE</text>
+    <text class="f ct"  x="58"  y="159">Câmera RTSP</text>
+    <text class="m cm"  x="58"  y="176">rtsp://cam/stream</text>
+    <text class="m cm"  x="58"  y="190">H.264 · 30 fps</text>
+
+    <rect x="181" y="118" width="127" height="86" rx="10" fill="#141419" stroke="#2A2A33"/>
+    <text class="f num" x="195" y="138">02</text><text class="f tag" x="215" y="138">PIPELINE</text>
+    <text class="f ct"  x="195" y="159">DeepStream</text>
+    <text class="m cm"  x="195" y="176">nvstreammux</text>
+    <text class="m cm"  x="195" y="190">lote de câmeras</text>
+
+    <rect x="318" y="118" width="127" height="86" rx="10" fill="#141419" stroke="#2A2A33"/>
+    <text class="f num" x="332" y="138">03</text><text class="f tag" x="352" y="138">INFERÊNCIA</text>
+    <text class="f ct"  x="332" y="159">TensorRT</text>
+    <text class="m cm"  x="332" y="176">nvinfer engine</text>
+    <text class="m cm"  x="332" y="190">YOLO na GPU</text>
+
+    <rect x="455" y="118" width="127" height="86" rx="10" fill="#141419" stroke="#2A2A33"/>
+    <text class="f num" x="469" y="138">04</text><text class="f tag" x="489" y="138">RASTREIO</text>
+    <text class="f ct"  x="469" y="159">nvtracker</text>
+    <text class="m cm"  x="469" y="176">object id</text>
+    <text class="m cm"  x="469" y="190">trajetória</text>
+
+    <rect x="592" y="118" width="127" height="86" rx="10" fill="#17140F" stroke="#C07A3E"/>
+    <text class="f num" x="606" y="138">05</text><text class="f tag" x="626" y="138">REGRA</text>
+    <text class="f ct"  x="606" y="159">Probe Python</text>
+    <text class="m cm"  x="606" y="176">pyds metadata</text>
+    <text class="m cm"  x="606" y="190">áreas · linhas</text>
+
+    <rect x="729" y="118" width="127" height="86" rx="10" fill="#141419" stroke="#2A2A33"/>
+    <text class="f num" x="743" y="138">06</text><text class="f tag" x="763" y="138">SAÍDAS</text>
+    <text class="f ct"  x="743" y="159">Evento + RTSP</text>
+    <text class="m cm"  x="743" y="176">redis / valkey</text>
+    <text class="m cm"  x="743" y="190">stream anotado</text>
+
+    <g class="f arr">
+      <text x="176" y="166">›</text><text x="313" y="166">›</text><text x="450" y="166">›</text>
+      <text x="587" y="166">›</text><text x="724" y="166">›</text>
+    </g>
+  </g>
+
+  <line x1="62" y1="232" x2="838" y2="232" stroke="#3A3A44" stroke-width="1.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+  <g>
+    <rect x="-27" y="-11" width="54" height="22" rx="11" fill="#E0803C"/>
+    <text class="f chip" x="0" y="4" text-anchor="middle">frame</text>
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath xlink:href="#track" href="#track"/>
+    </animateMotion>
+  </g>
+
+  <g>
+    <rect x="44" y="262" width="430" height="152" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <circle cx="64" cy="282" r="4" fill="#E05A4F"/>
+    <circle cx="78" cy="282" r="4" fill="#E0A33C"/>
+    <circle cx="92" cy="282" r="4" fill="#4FB06A"/>
+    <text class="f cm" x="108" y="285.5">o que acontece em cada etapa</text>
+
+    <text class="f step" x="64" y="312">05 · Inferência e regra</text>
+    <text class="m code" x="64" y="334">→  nvstreammux agrupa as câmeras num lote</text>
+    <text class="m code" x="64" y="352">→  nvinfer (TensorRT) detecta · nvtracker dá o ID</text>
+    <text class="m code" x="64" y="370">→  probe lê pyds metadata a cada frame</text>
+    <text class="m cdim" x="64" y="388"># pessoa #12 esperou 42,3 s na fila</text>
+
+    <rect x="64" y="400" width="390" height="2.5" rx="1.25" fill="#23232B"/>
+    <rect x="64" y="400" width="240" height="2.5" rx="1.25" fill="url(#bar)">
+      <animate attributeName="width" values="40;390;40" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g>
+    <rect x="486" y="262" width="370" height="152" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <text class="f lbl" x="506" y="287">SAÍDA RTSP DA CÂMERA</text>
+
+    <rect x="506" y="298" width="330" height="96" rx="6" fill="#0C0C0F" stroke="#23232B"/>
+    <rect x="534" y="308" width="222" height="76" rx="3" fill="none" stroke="#C07A3E" stroke-dasharray="4 4"/>
+    <text class="m cm" x="536" y="305">fila</text>
+
+    <g stroke="#4FB06A" fill="#1A2420">
+      <rect x="552" y="330" width="34" height="48" rx="3"/>
+      <rect x="616" y="326" width="34" height="52" rx="3"/>
+      <rect x="690" y="332" width="34" height="46" rx="3"/>
+    </g>
+    <g fill="#4FB06A">
+      <rect x="552" y="318" width="44" height="11" rx="2"/>
+      <rect x="616" y="314" width="48" height="11" rx="2"/>
+      <rect x="690" y="320" width="44" height="11" rx="2"/>
+    </g>
+    <g class="m box">
+      <text x="556" y="326.5">#12 42s</text>
+      <text x="620" y="322.5">#13 27s</text>
+      <text x="694" y="328.5">#14 12s</text>
+    </g>
+
+    <rect x="760" y="368" width="66" height="16" rx="4" fill="#17171C" stroke="#2C2C34"/>
+    <text class="m cm" x="768" y="379">3 na fila</text>
+  </g>
+</svg>

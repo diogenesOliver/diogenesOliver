@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 172" width="900" height="172" role="img" aria-label="Numeros do perfil">
+  <defs>
+    <linearGradient id="nbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101014"/>
+      <stop offset="1" stop-color="#17120E"/>
+    </linearGradient>
+    <style>
+      .f { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .hd  { font-size: 10px; font-weight: 700; letter-spacing: 1.5px; fill: #7A7A86; }
+      .big { font-size: 30px; font-weight: 800; fill: #E0803C; letter-spacing: -0.5px; }
+      .cap { font-size: 10.5px; fill: #ACACB6; }
+      .cap2{ font-size: 10.5px; fill: #70707C; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="171" rx="16" fill="url(#nbg)" stroke="#26262D"/>
+  <circle cx="52" cy="31" r="4" fill="#4FB06A"/>
+  <text class="f hd" x="66" y="35">PERFIL · O QUE EU CONSTRUO</text>
+
+  <g>
+    <rect x="44"  y="52" width="152" height="96" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <text class="f big"  x="62"  y="94">6</text>
+    <text class="f cap"  x="62"  y="117">projetos</text>
+    <text class="f cap2" x="62"  y="132">em destaque</text>
+
+    <rect x="208" y="52" width="152" height="96" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <text class="f big"  x="226" y="94">13</text>
+    <text class="f cap"  x="226" y="117">tecnologias</text>
+    <text class="f cap2" x="226" y="132">no stack diário</text>
+
+    <rect x="372" y="52" width="152" height="96" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <text class="f big"  x="390" y="94">GPU</text>
+    <text class="f cap"  x="390" y="117">inferência</text>
+    <text class="f cap2" x="390" y="132">TensorRT · YOLO</text>
+
+    <rect x="536" y="52" width="152" height="96" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <text class="f big"  x="554" y="94">IaC</text>
+    <text class="f cap"  x="554" y="117">Terraform</text>
+    <text class="f cap2" x="554" y="132">AWS · LocalStack</text>
+
+    <rect x="700" y="52" width="156" height="96" rx="11" fill="#141419" stroke="#2A2A33"/>
+    <text class="f big"  x="718" y="94">POA</text>
+    <text class="f cap"  x="718" y="117">Porto Alegre, RS</text>
+    <text class="f cap2" x="718" y="132">Brasil · remoto</text>
+  </g>
+</svg>
