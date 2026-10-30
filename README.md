@@ -48,23 +48,23 @@ Um frame percorre seis etapas, da câmera ao evento. A animação acompanha um f
 ## GitHub
 
 <p align="center">
-  <img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogenesOliver&theme=github_dark" alt="estatísticas"/>
-  <img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diogenesOliver&theme=github_dark&utcOffset=-3" alt="commits por hora do dia"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogenesOliver&theme=github_dark" alt="estatísticas"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diogenesOliver&theme=github_dark&utcOffset=-3" alt="commits por hora do dia"/>
 </p>
 
 <p align="center">
-  <img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogenesOliver&theme=github_dark" alt="linguagens por repositório"/>
-  <img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diogenesOliver&theme=github_dark" alt="linguagens com mais commits"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogenesOliver&theme=github_dark" alt="linguagens por repositório"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diogenesOliver&theme=github_dark" alt="linguagens com mais commits"/>
 </p>
 
 <p align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=diogenesOliver&theme=github-dark-blue&background=0d1117&ring=00E676&fire=00E676&currStreakLabel=00E676&hide_border=true&locale=pt_BR" alt="sequência de commits"/>
+  <img width="72%" src="https://streak-stats.demolab.com/?user=diogenesOliver&theme=github-dark-blue&background=0d1117&ring=00E676&fire=00E676&currStreakLabel=00E676&hide_border=true&locale=pt_BR" alt="sequência de commits"/>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogenesOliver/diogenesOliver/output/github-contribution-grid-snake-dark.svg"/>
-    <img width="570" src="https://raw.githubusercontent.com/diogenesOliver/diogenesOliver/output/github-contribution-grid-snake.svg" alt="contribuições"/>
+    <img width="100%" src="https://raw.githubusercontent.com/diogenesOliver/diogenesOliver/output/github-contribution-grid-snake.svg" alt="contribuições"/>
   </picture>
 </p>
 
